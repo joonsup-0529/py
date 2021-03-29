@@ -1,0 +1,5 @@
+import cv2
+import numpy as np
+im = cv2.imread('c:/Users/Administrator/Desktop/python/origin/python.png')
+
+print(im.shape)
